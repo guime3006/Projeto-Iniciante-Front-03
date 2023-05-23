@@ -1,5 +1,5 @@
 # Projeto-Iniciante-Front-03
-Os Projetos aqui são do nível Iniciantes, utilizando HTML/CSS e um pouco de JS
+O Projeto aqui é do nível Iniciante, utilizando HTML/CSS
 
 <div style="display: inline-block;"><br>
     <img alt="html5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
@@ -16,7 +16,7 @@ O projeto simula um Portifólio Pessoal, foi construido com ajuda do Professor d
 - flexbox
 
 <b>* Nessa versão eu mudei o efeito dos cards ao passar o mouse por cima deles um borda pode ser vista</b> <br>
-<b>* O background do header também foi alterado</b>
+<b>*A imagem de background do header também foi alterada</b>
 
 Canal da Serliv: https://www.youtube.com/@serliv <br>
 Udemy : https://www.udemy.com/user/serfrontendcursos/
